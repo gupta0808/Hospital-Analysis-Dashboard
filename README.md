@@ -125,7 +125,6 @@ Clinical Insights
 Financial Insights
 ![Financial Insights Dashboard](financial-insights.jpg)
 
-Ensure the screenshot filenames match the files you actually upload.
 
 ## 📁 Repository Structure
 
